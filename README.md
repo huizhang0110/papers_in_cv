@@ -1,2 +1,5 @@
-# papersInCV
-A papers list in computer vision fields.
+# A papers list in computer vision fields.
+
+## Text Recognition
+
+- 
