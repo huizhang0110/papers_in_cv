@@ -39,6 +39,8 @@
 
 - Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_Inferring_Semantic_Layout_CVPR_2018_paper.pdf)
 
+- geometry-aware scene text detection with instance transformation network [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.pdf)
+
 **AAAI 2018** 
 
 - Feature Enhancement Network: A Refined Scene Text Detector [pdf](https://arxiv.org/pdf/1711.04249)
