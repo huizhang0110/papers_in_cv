@@ -28,11 +28,10 @@
 - SEE: Towards Semi-Supervised End-to-End Scene Text Recognition [pdf](https://arxiv.org/pdf/1712.05404) 
 
 
-
-
 ## Scene Text Detection
 
 **CVPR 2018**
+
 - Rotation-Sensitive Regression for Oriented Scene Text Detection [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.pdf)
 
 - Learning Markov Clustering Networks for scene Text Detection [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Learning_Markov_Clustering_CVPR_2018_paper.pdf)
@@ -51,3 +50,9 @@
 
 - IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [pdf](https://arxiv.org/pdf/1805.01167)
 
+
+## Text Retrieval
+
+**ECCV 2018**
+
+- Single Shot Scene Text Retrieval [pdf](https://arxiv.org/pdf/1808.09044)
