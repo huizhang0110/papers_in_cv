@@ -18,7 +18,7 @@
 
 **PAMI 2018**
 
-- [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification](http://www.vlrlab.net/admin/uploads/avatars/ASTER_An_Attentional_Scene_Text_Recognizer_with_Flexible_Rectification.pdf) [code](https://github.com/bgshih/aster)
+- [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification](http://www.vlrlab.net/admin/uploads/avatars/ASTER_An_Attentional_Scene_Text_Recognizer_with_Flexible_Rectification.pdf) **==** [code](https://github.com/bgshih/aster)
 
 
 ## End2End Text Spotting
@@ -59,4 +59,4 @@
 
 **ECCV 2018**
 
-- [Single Shot Scene Text Retrieval](https://arxiv.org/pdf/1808.09044) [code](https://github.com/lluisgomez/single-shot-str)
+- [Single Shot Scene Text Retrieval](https://arxiv.org/pdf/1808.09044) **==** [code](https://github.com/lluisgomez/single-shot-str)
