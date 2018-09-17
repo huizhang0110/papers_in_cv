@@ -34,6 +34,9 @@
 
 ## Scene Text Detection
 
+**CVPR 2017**
+- [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/pdf/1704.03155v2) == **==** [code](https://github.com/argman/EAST)
+
 **CVPR 2018**
 
 - [Rotation-Sensitive Regression for Oriented Scene Text Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.pdf)
