@@ -43,3 +43,8 @@
 - [Image Retrieval using Textual Cues](https://www.di.ens.fr/willow/pdfscurrent/mishra13.pdf) **ICCV2013**
 
 - [Single Shot Scene Text Retrieval](https://arxiv.org/pdf/1808.09044) **ECCV2018** [code](https://github.com/lluisgomez/single-shot-str)
+
+
+## Others
+
+
