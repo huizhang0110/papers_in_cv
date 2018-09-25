@@ -1,6 +1,6 @@
 # A papers list in computer vision field.
 
-## Text Recognition
+## Scene Text Recognition
 
 - [Edit Probability fro Scene Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf) **CVPR2018** 
 
@@ -38,7 +38,7 @@
 
 - [SEE: Towards Semi-Supervised End-to-End Scene Text Recognition](https://arxiv.org/pdf/1712.05404) **AAAI 2018**
 
-## Text Retrieval
+## Scene Text Image Retrieval
 
 - [Image Retrieval using Textual Cues](https://www.di.ens.fr/willow/pdfscurrent/mishra13.pdf) **ICCV2013**
 
