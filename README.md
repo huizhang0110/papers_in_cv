@@ -49,4 +49,5 @@
 
 ## Others
 
+- [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025) **NIPS2015** [code](https://github.com/kevinzakka/spatial-transformer-network)
 
