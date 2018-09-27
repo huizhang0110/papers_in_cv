@@ -14,6 +14,8 @@
 
 - [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification](http://www.vlrlab.net/admin/uploads/avatars/ASTER_An_Attentional_Scene_Text_Recognizer_with_Flexible_Rectification.pdf) **PAMI2018** [code](https://github.com/bgshih/aster)
 
+- [adical analysis network for zero-shot learning in printed Chinese character recognition](https://arxiv.org/pdf/1711.01889.pdf) **ICME2018**
+
 ## Scene Text Detection
 
 - [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/pdf/1704.03155v2) **CVPR2017** [code](https://github.com/argman/EAST)
