@@ -44,8 +44,9 @@
 
 - [Single Shot Scene Text Retrieval](https://arxiv.org/pdf/1808.09044) **ECCV2018** [code](https://github.com/lluisgomez/single-shot-str)
 
+## Object Detection
 
-## Logo Detection
+### Logo Detection
 
 ## Person Re-Identification
 
