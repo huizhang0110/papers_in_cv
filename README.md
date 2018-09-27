@@ -47,6 +47,10 @@
 
 ## Logo Detection
 
+## Person Re-Identification
+
+- [AlignedReID: Surpressing Human-Level Performance in Person Re-Identification](https://arxiv.org/pdf/1711.08184)
+
 ## Others
 
 - [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025) **NIPS2015** [code](https://github.com/kevinzakka/spatial-transformer-network)
