@@ -52,7 +52,7 @@
 
 ## Person Re-Identification
 
-- [AlignedReID: Surpressing Human-Level Performance in Person Re-Identification](https://arxiv.org/pdf/1711.08184)
+- [AlignedReID: Surpressing Human-Level Performance in Person Re-Identification](https://arxiv.org/pdf/1711.08184) [code](https://github.com/michuanhaohao/AlignedReID)
 
 ## Others
 
