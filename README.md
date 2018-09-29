@@ -4,7 +4,7 @@
 
 - [Edit Probability fro Scene Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf) **CVPR2018** 
 
-- [AON: Towards Arbitrarily-Oriented Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_AON_Towards_Arbitrarily-Oriented_CVPR_2018_paper.pdf) **CVPR2018** 
+- [AON: Towards Arbitrarily-Oriented Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_AON_Towards_Arbitrarily-Oriented_CVPR_2018_paper.pdf) **CVPR2018** [code](https://github.com/huizhang0110/AON.git)
 
 - [SqueezedText: A Real-Time Scene Text Recognition by Binary Convolutional Encoder-Decoder Network](https://ren-fengbo.lab.asu.edu/sites/default/files/16354-77074-1-pb.pdf) **AAAI2018**
 
