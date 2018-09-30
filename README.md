@@ -4,7 +4,7 @@
 
 - [Edit Probability fro Scene Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf) **CVPR2018** 
 
-- [AON: Towards Arbitrarily-Oriented Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_AON_Towards_Arbitrarily-Oriented_CVPR_2018_paper.pdf) **CVPR2018** [code](https://github.com/huizhang0110/AON.git)
+- [AON: Towards Arbitrarily-Oriented Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_AON_Towards_Arbitrarily-Oriented_CVPR_2018_paper.pdf) **CVPR2018** [tensorflow-code](https://github.com/huizhang0110/AON.git)
 
 - [SqueezedText: A Real-Time Scene Text Recognition by Binary Convolutional Encoder-Decoder Network](https://ren-fengbo.lab.asu.edu/sites/default/files/16354-77074-1-pb.pdf) **AAAI2018**
 
@@ -12,7 +12,7 @@
 
 - [Enhancing RNN Based OCR by Transducative Transfer Learning From Text to Images]() **AAAI2018**
 
-- [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification](http://www.vlrlab.net/admin/uploads/avatars/ASTER_An_Attentional_Scene_Text_Recognizer_with_Flexible_Rectification.pdf) **PAMI2018** [code](https://github.com/bgshih/aster)
+- [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification](http://www.vlrlab.net/admin/uploads/avatars/ASTER_An_Attentional_Scene_Text_Recognizer_with_Flexible_Rectification.pdf) **PAMI2018** [tensorflow-code](https://github.com/bgshih/aster)
 
 - [adical analysis network for zero-shot learning in printed Chinese character recognition](https://arxiv.org/pdf/1711.01889.pdf) **ICME2018**
 
@@ -46,15 +46,22 @@
 
 - [Image Retrieval using Textual Cues](https://www.di.ens.fr/willow/pdfscurrent/mishra13.pdf) **ICCV2013**
 
-- [Single Shot Scene Text Retrieval](https://arxiv.org/pdf/1808.09044) **ECCV2018** [code](https://github.com/lluisgomez/single-shot-str)
+- [Single Shot Scene Text Retrieval](https://arxiv.org/pdf/1808.09044) **ECCV2018** [tensorflow-code](https://github.com/lluisgomez/single-shot-str)
 
 ## Object Detection
 
+### General object detection
+
+- [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) **NIPS2015** [tensorflow-code](https://github.com/endernewton/tf-faster-rcnn.git)
+
+- [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)  **ICCV2017**  [tensorflow-code](https://github.com/matterport/Mask_RCNN.git)
+
 ### Logo Detection
+
 
 ## Person Re-Identification
 
-- [AlignedReID: Surpressing Human-Level Performance in Person Re-Identification](https://arxiv.org/pdf/1711.08184) [code](https://github.com/michuanhaohao/AlignedReID)
+- [AlignedReID: Surpressing Human-Level Performance in Person Re-Identification](https://arxiv.org/pdf/1711.08184) [tensorflow-code](https://github.com/michuanhaohao/AlignedReID)
 
 ## Others
 
