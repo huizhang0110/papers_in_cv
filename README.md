@@ -16,6 +16,8 @@
 
 - [adical analysis network for zero-shot learning in printed Chinese character recognition](https://arxiv.org/pdf/1711.01889.pdf) **ICME2018**
 
+- [Scene Text Recognition from Two-Dimensional Perspective](https://arxiv.org/pdf/1809.06508)
+
 ## Scene Text Detection
 
 - [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/pdf/1704.03155v2) **CVPR2017** [code](https://github.com/argman/EAST)
