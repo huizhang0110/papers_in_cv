@@ -12,7 +12,7 @@
 
 - [Enhancing RNN Based OCR by Transducative Transfer Learning From Text to Images]() **AAAI2018**
 
-- [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification](http://www.vlrlab.net/admin/uploads/avatars/ASTER_An_Attentional_Scene_Text_Recognizer_with_Flexible_Rectification.pdf) **PAMI2018** [tensorflow-code](https://github.com/bgshih/aster)
+- [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification](http://www.vlrlab.net/admin/uploads/avatars/ASTER_An_Attentional_Scene_Text_Recognizer_with_Flexible_Rectification.pdf) **PAMI2018** [tensorflow-code](https://github.com/bgshih/aster) [variable-length version](https://github.com/huizhang0110/atr.git)
 
 - [adical analysis network for zero-shot learning in printed Chinese character recognition](https://arxiv.org/pdf/1711.01889.pdf) **ICME2018**
 
