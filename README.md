@@ -60,3 +60,5 @@
 
 - [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025) **NIPS2015** [code](https://github.com/kevinzakka/spatial-transformer-network)
 
+- [Squeeze-and-Excitation Networks](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1287.pdf)
+
