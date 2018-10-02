@@ -18,6 +18,8 @@
 
 - [Scene Text Recognition from Two-Dimensional Perspective](https://arxiv.org/pdf/1809.06508)
 
+- [A Novel Approach to On-Line Handwriting Recognition Based on Bidirectional Long Short-Term Memory Networks](https://mediatum.ub.tum.de/doc/1289961/file.pdf) **ICDAR2007**
+
 ## Scene Text Detection
 
 - [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/pdf/1704.03155v2) **CVPR2017** [code](https://github.com/argman/EAST)
