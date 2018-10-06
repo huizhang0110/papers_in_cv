@@ -54,6 +54,8 @@
 
 ### General object detection
 
+- [Soft-NMS -- Improving Object Detection With One Line of Code](http://cn.arxiv.org/pdf/1704.04503v2)
+
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) **NIPS2015** [tensorflow-code](https://github.com/endernewton/tf-faster-rcnn.git)
 
 - [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)  **ICCV2017**  [tensorflow-code](https://github.com/matterport/Mask_RCNN.git)
