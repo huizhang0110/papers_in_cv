@@ -54,7 +54,7 @@
 
 ## Object Detection
 
-### General object detection
+#### General object detection
 
 - [Soft-NMS -- Improving Object Detection With One Line of Code](http://cn.arxiv.org/pdf/1704.04503v2) **ICCV2017**
 
@@ -62,7 +62,7 @@
 
 - [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)  **ICCV2017**  [tensorflow-code](https://github.com/matterport/Mask_RCNN.git)
 
-### Logo Detection
+#### Logo Detection
 
 
 ## Person Re-Identification
