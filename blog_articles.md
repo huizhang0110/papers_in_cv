@@ -4,3 +4,5 @@
 - [Compile GCC source code](https://blog.csdn.net/qq_36573282/article/details/79762028)
 
 - [Sequence Modeling With CTC](https://distill.pub/2017/ctc/)
+
+- [super consider python super](https://rhettinger.wordpress.com/2011/05/26/super-considered-super/)
