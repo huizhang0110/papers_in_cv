@@ -1,4 +1,4 @@
-# A papers list in computer vision field.
+# A papers list in computer vision field
 
 ## Scene Text Recognition
 
