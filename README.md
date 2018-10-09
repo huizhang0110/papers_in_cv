@@ -14,7 +14,7 @@
 
 - [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification](http://www.vlrlab.net/admin/uploads/avatars/ASTER_An_Attentional_Scene_Text_Recognizer_with_Flexible_Rectification.pdf) **PAMI2018** [tensorflow-code](https://github.com/bgshih/aster) [variable-length version](https://github.com/huizhang0110/atr.git)
 
-- [adical analysis network for zero-shot learning in printed Chinese character recognition](https://arxiv.org/pdf/1711.01889.pdf) **ICME2018**
+- [Radical analysis network for zero-shot learning in printed Chinese character recognition](https://arxiv.org/pdf/1711.01889.pdf) **ICME2018**
 
 - [Scene Text Recognition from Two-Dimensional Perspective](https://arxiv.org/pdf/1809.06508)
 
