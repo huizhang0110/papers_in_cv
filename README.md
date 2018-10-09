@@ -20,6 +20,8 @@
 
 - [A Novel Approach to On-Line Handwriting Recognition Based on Bidirectional Long Short-Term Memory Networks](https://mediatum.ub.tum.de/doc/1289961/file.pdf) **ICDAR2007**
 
+- [Similar handwritten Chinese characters recognition by critical region selection based on average symmetric uncertainty](http://www.nlpr.ia.ac.cn/2010papers/gjhy/gh25.pdf) **ICFHR2010**
+
 ## Scene Text Detection
 
 - [Detecting Text in Natural Image with Connectionist Text Proposal Network](https://arxiv.org/pdf/1609.03605) **ECCV2016** [code](https://github.com/eragonruan/text-detection-ctpn.git)
