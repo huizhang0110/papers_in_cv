@@ -26,7 +26,9 @@
 
 - [Detecting Text in Natural Image with Connectionist Text Proposal Network](https://arxiv.org/pdf/1609.03605) **ECCV2016** [code](https://github.com/eragonruan/text-detection-ctpn.git)
 
-- [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/pdf/1704.03155v2) **CVPR2017** [code](https://github.com/argman/EAST)
+- [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/pdf/1704.03155v2) **CVPR2017** [tensorflow-code](https://github.com/argman/EAST)
+
+- [Detecting Oriented Text in Natural Images by Linking Segments](https://arxiv.org/abs/1703.06520) **CVPR2017** [tensorflow-code](https://github.com/dengdan/seglink.git)
 
 - [Rotation-Sensitive Regression for Oriented Scene Text Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.pdf) **CVPR2018**
 
