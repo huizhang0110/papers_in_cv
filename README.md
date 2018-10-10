@@ -38,7 +38,7 @@
 
 - [Feature Enhancement Network: A Refined Scene Text Detector](https://arxiv.org/pdf/1711.04249) **AAAI2018** 
 
-- [PixelLink: Detecting Scene Text via Instance Segmentation](https://arxiv.org/pdf/1801.01315) **AAAI2018** 
+- [PixelLink: Detecting Scene Text via Instance Segmentation](https://arxiv.org/pdf/1801.01315) **AAAI2018** [tensorflow-code](https://github.com/ZJULearning/pixel_link.git)
 
 - [IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection](https://arxiv.org/pdf/1805.01167) **IJCAI2018**
 
