@@ -73,6 +73,10 @@
 
 - [AlignedReID: Surpressing Human-Level Performance in Person Re-Identification](https://arxiv.org/pdf/1711.08184) [tensorflow-code](https://github.com/michuanhaohao/AlignedReID)
 
+- [Beyond Part Models: Person Retrieval with Refined Part Pooling]()
+
+- [Improving Person Re-identification by Attribute and Identity Learning]()
+
 ## Others
 
 - [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025) **NIPS2015** [code](https://github.com/kevinzakka/spatial-transformer-network)
