@@ -9,4 +9,8 @@
 
 - [Why Python is Slow: Looking Under the Hood](https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/)
 
+
+**Numpy Notes**
 - [Understanding the internals of NumPy to avoid unnecessary array copying](https://ipython-books.github.io/45-understanding-the-internals-of-numpy-to-avoid-unnecessary-array-copying/)
+
+- [Numpy 常用函数](https://liung.github.io/blog/python/2014-09-14-numpy%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html)
