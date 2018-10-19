@@ -83,3 +83,5 @@
 
 - [Squeeze-and-Excitation Networks](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1287.pdf)
 
+- [Deep Binary Representation for Efficient Image Retrieval](http://downloads.hindawi.com/journals/am/2017/8961091.pdf)
+
