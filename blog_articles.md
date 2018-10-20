@@ -11,6 +11,8 @@
 
 - [Why I use tf.nn.raw_rnn instead of dynamic rnn in tensorflow](https://hanxiao.github.io/2017/08/16/Why-I-use-raw-rnn-Instead-of-dynamic-rnn-in-Tensorflow-So-Should-You-0/)
 
+- [the exploding and vanishing gradients problem](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/readings/L15%20Exploding%20and%20Vanishing%20Gradients.pdf)
+
 
 **Numpy Notes**
 - [Understanding the internals of NumPy to avoid unnecessary array copying](https://ipython-books.github.io/45-understanding-the-internals-of-numpy-to-avoid-unnecessary-array-copying/)
