@@ -85,3 +85,4 @@
 
 - [Deep Binary Representation for Efficient Image Retrieval](http://downloads.hindawi.com/journals/am/2017/8961091.pdf)
 
+- [Sequential Context Encoding for Duplicate Removal](https://arxiv.org/pdf/1810.08770.pdf) **NIPS2018**
