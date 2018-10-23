@@ -77,6 +77,13 @@
 
 - [Improving Person Re-identification by Attribute and Identity Learning]()
 
+
+## CNN base
+
+- [Deep Residual Learning for Image Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) **CVPR2016**
+
+- [Identity Mappings in Deep Residual Networks](https://arxiv.org/pdf/1603.05027.pdf) **ECCV2016**
+
 ## Others
 
 - [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025) **NIPS2015** [code](https://github.com/kevinzakka/spatial-transformer-network)
