@@ -84,6 +84,8 @@
 
 - [Identity Mappings in Deep Residual Networks](https://arxiv.org/pdf/1603.05027.pdf) **ECCV2016**
 
+- [Aggregated Residual Transformations for Deep Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.pdf) **CVPR2017**
+
 ## Others
 
 - [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025) **NIPS2015** [code](https://github.com/kevinzakka/spatial-transformer-network)
@@ -93,3 +95,4 @@
 - [Deep Binary Representation for Efficient Image Retrieval](http://downloads.hindawi.com/journals/am/2017/8961091.pdf)
 
 - [Sequential Context Encoding for Duplicate Removal](https://arxiv.org/pdf/1810.08770.pdf) **NIPS2018**
+
