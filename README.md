@@ -22,6 +22,8 @@
 
 - [Similar handwritten Chinese characters recognition by critical region selection based on average symmetric uncertainty](http://www.nlpr.ia.ac.cn/2010papers/gjhy/gh25.pdf) **ICFHR2010**
 
+- [Synthetically Supervised Feature Learning for Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf) **ECCV2018**
+
 ## Scene Text Detection
 
 - [Detecting Text in Natural Image with Connectionist Text Proposal Network](https://arxiv.org/pdf/1609.03605) **ECCV2016** [code](https://github.com/eragonruan/text-detection-ctpn.git)
@@ -44,17 +46,33 @@
 
 - [IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection](https://arxiv.org/pdf/1805.01167) **IJCAI2018**
 
-## End2End Text Spotting
+- [TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shangbang_Long_TextSnake_A_Flexible_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chuhui_Xue_Accurate_Scene_Text_ECCV_2018_paper.pdf) **ECCV2018**
+
+## End2End Scene Text Spotting
 
 - [FOTS: Fast Oriented Text Spotting with a Unified Network](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_FOTS_Fast_Oriented_CVPR_2018_paper.pdf) **CVPR2018**
 
 - [SEE: Towards Semi-Supervised End-to-End Scene Text Recognition](https://arxiv.org/pdf/1712.05404) **AAAI2018**
+
+- [Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Using Object Information for Spotting Text](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf) **ECCV2018**
+
+## Scene Text Image Synthesis
+
+- [Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf) **ECCV2018**
 
 ## Scene Text Image Retrieval
 
 - [Image Retrieval using Textual Cues](https://www.di.ens.fr/willow/pdfscurrent/mishra13.pdf) **ICCV2013**
 
 - [Single Shot Scene Text Retrieval](https://arxiv.org/pdf/1808.09044) **ECCV2018** [tensorflow-code](https://github.com/lluisgomez/single-shot-str)
+
+## Text correction
+
+- [Visual Text Correction](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amir_Mazaheri_Visual_Text_Correction_ECCV_2018_paper.pdf) **ECCV2018**
 
 ## Object Detection
 
@@ -66,6 +84,49 @@
 
 - [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)  **ICCV2017**  [tensorflow-code](https://github.com/matterport/Mask_RCNN.git)
 
+- [SOD-MTGAN: Small Object Detection via Multi-Task Generative Adversarial Network](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yongqiang_Zhang_SOD-MTGAN_Small_Object_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Reverse Attention for Salient Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shuhan_Chen_Reverse_Attention_for_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [DetNet: Design Backbone for Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zeming_Li_DetNet_Design_Backbone_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Visual-Inertial Object Detection and Mapping](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaohan_Fei_Visual-Inertial_Object_Detection_ECCV_2018_paper.pdf)  **ECCV2018**
+
+- [Zero-Shot Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ankan_Bansal_Zero-Shot_Object_Detection_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Contour Knowledge Transfer for Salient Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xin_Li_Contour_Knowledge_Transfer_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Fast and Accurate Intrinsic Symmetry Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Rajendra_Nagar_Fast_and_Accurate_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Weakly Supervised Region Proposal Network and Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Peng_Tang_Weakly_Supervised_Region_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Zero-Annotation Object Detection with Web Knowledge Transfer](http://openaccess.thecvf.com/content_ECCV_2018/papers/Qingyi_Tao_Zero-Annotation_Object_Detection_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Fully Motion-Aware Network for Video Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shiyao_Wang_Fully_Motion-Aware_Network_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Geometric Constrained Joint Lane Segmentation and Lane Boundary Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jie_Zhang_Geometric_Constrained_Joint_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Deep Feature Pyramid Reconfiguration for Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tao_Kong_Deep_Feature_Pyramid_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Receptive Field Block Net for Accurate and Fast Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Songtao_Liu_Receptive_Field_Block_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [SphereNet: Learning Spherical Representations for Detection and Classification in Omnidirectional Images](http://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Coors_SphereNet_Learning_Spherical_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Parallel Feature Pyramid Network for Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Seung-Wook_Kim_Parallel_Feature_Pyramid_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yunchao_Wei_TS2C_Tight_Box_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [SAN: Learning Relationship between Convolutional Features for Multi-Scale Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kim_SAN_Learning_Relationship_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Acquisition of Localization Confidence for Accurate Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Borui_Jiang_Acquisition_of_Localization_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Localization Recall Precision (LRP): A New Performance Metric for Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kemal_Oksuz_Localization_Recall_Precision_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Deep Regionlets for Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hongyu_Xu_Deep_Regionlets_for_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [Quantization Mimic: Towards Very Tiny CNN for Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Wei_Quantization_Mimic_Towards_ECCV_2018_paper.pdf) **ECCV2018**
+
+
 #### Logo Detection
 
 
@@ -76,6 +137,10 @@
 - [Beyond Part Models: Person Retrieval with Refined Part Pooling]()
 
 - [Improving Person Re-identification by Attribute and Identity Learning]()
+
+- [Bi-box Regression for Pedestrian Detection and Occlusion Estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/CHUNLUAN_ZHOU_Bi-box_Regression_for_ECCV_2018_paper.pdf) **ECCV2018**
+
+
 
 
 ## CNN base
