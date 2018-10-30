@@ -131,7 +131,7 @@
 
 ## GAN
 
-- [UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1511.06434.pdf)  **ICLR 2016**
+- [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)  **ICLR 2016**
 
 
 #### Logo Detection
