@@ -129,6 +129,11 @@
 - [Quantization Mimic: Towards Very Tiny CNN for Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Wei_Quantization_Mimic_Towards_ECCV_2018_paper.pdf) **ECCV2018**
 
 
+## GAN
+
+- [UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1511.06434.pdf)  **ICLR 2016**
+
+
 #### Logo Detection
 
 
