@@ -70,9 +70,11 @@
 
 - [Single Shot Scene Text Retrieval](https://arxiv.org/pdf/1808.09044) **ECCV2018** [tensorflow-code](https://github.com/lluisgomez/single-shot-str)
 
-## Text correction
+## OCR others
 
 - [Visual Text Correction](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amir_Mazaheri_Visual_Text_Correction_ECCV_2018_paper.pdf) **ECCV2018**
+
+- [DocUNet: Document Image Unwarping via A Stacked U-Net](https://www.juew.org/publication/DocUNet.pdf) **CVPR2018**
 
 ## Object Detection
 
