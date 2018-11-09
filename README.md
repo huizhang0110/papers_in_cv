@@ -172,3 +172,4 @@
 
 - [Sequential Context Encoding for Duplicate Removal](https://arxiv.org/pdf/1810.08770.pdf) **NIPS2018**
 
+- [vTraining Region-based Object Detectors with Online Hard Example Mining](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shrivastava_Training_Region-Based_Object_CVPR_2016_paper.pdf) **CVPR2016**
