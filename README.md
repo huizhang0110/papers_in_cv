@@ -1,5 +1,12 @@
 # A papers list in computer vision field
 
+
+## reading cvpr2019 papers
+
+- [papers list](https://docs.google.com/spreadsheets/d/1RU2y-iuzwtAR_hn4V9yz1qpZSiElm3iaCpUoDJ-vfvQ/htmlview?sle=true#)
+
+
+
 ## Scene Text Recognition
 
 - [Edit Probability fro Scene Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf) **CVPR2018** 
