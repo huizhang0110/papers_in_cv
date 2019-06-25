@@ -5,9 +5,15 @@
 
 - [papers list](https://docs.google.com/spreadsheets/d/1RU2y-iuzwtAR_hn4V9yz1qpZSiElm3iaCpUoDJ-vfvQ/htmlview?sle=true#)
 
+- [Sequence to Sequence Domain Adaptation Network for Robust Text Image Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.pdf)
 
+- [Arbitrary Shape Scene Text Detection with Adaptive Text Region Representation](https://arxiv.org/pdf/1905.05980.pdf)
+
+- [Learning Shape-Aware Embedding for Scene Text Detection](http://jiaya.me/papers/textdetection_cvpr19.pdf)
 
 ## Scene Text Recognition
+
+- [Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/pdf/1904.08364.pdf)
 
 - [Edit Probability fro Scene Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf) **CVPR2018** 
 
