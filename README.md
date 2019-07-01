@@ -5,11 +5,31 @@
 
 - [papers list](https://docs.google.com/spreadsheets/d/1RU2y-iuzwtAR_hn4V9yz1qpZSiElm3iaCpUoDJ-vfvQ/htmlview?sle=true#)
 
-- [Sequence to Sequence Domain Adaptation Network for Robust Text Image Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.pdf)
+**Text Detection**
 
 - [Arbitrary Shape Scene Text Detection with Adaptive Text Region Representation](https://arxiv.org/pdf/1905.05980.pdf)
 
 - [Learning Shape-Aware Embedding for Scene Text Detection](http://jiaya.me/papers/textdetection_cvpr19.pdf)
+
+**Text Recognition**
+
+- [Sequence to Sequence Domain Adaptation Network for Robust Text Image Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.pdf)
+
+- [ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification](https://arxiv.org/pdf/1812.05824.pdf)
+
+- [Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/pdf/1904.08364.pdf)
+
+## reading AAAI2019 papers
+
+- [papers list](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)
+
+**Text Detection**
+
+**Text Recognition**
+
+- [Scene Text Recognition from Two-Dimensional Perspective](https://arxiv.org/pdf/1809.06508.pdf)
+
+- [Show, attend and read: a simple and strong baseline for recognising irregular text](https://arxiv.org/pdf/1811.00751v1.pdf)
 
 ## Scene Text Recognition
 
@@ -27,7 +47,9 @@
 
 - [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification](http://www.vlrlab.net/admin/uploads/avatars/ASTER_An_Attentional_Scene_Text_Recognizer_with_Flexible_Rectification.pdf) **PAMI2018** [tensorflow-code](https://github.com/bgshih/aster) [variable-length version](https://github.com/huizhang0110/atr.git)
 
-- [Radical analysis network for zero-shot learning in printed Chinese character recognition](https://arxiv.org/pdf/1711.01889.pdf) **ICME2018**
+- [Radical analysis network for zero-shot learning in printed Chinese character recognition](https://arxiv.org/pdf/1711.01889.pdf) 
+
+**ICME2018**
 
 - [Scene Text Recognition from Two-Dimensional Perspective](https://arxiv.org/pdf/1809.06508)
 
@@ -163,9 +185,6 @@
 - [Improving Person Re-identification by Attribute and Identity Learning]()
 
 - [Bi-box Regression for Pedestrian Detection and Occlusion Estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/CHUNLUAN_ZHOU_Bi-box_Regression_for_ECCV_2018_paper.pdf) **ECCV2018**
-
-
-
 
 ## CNN base
 
