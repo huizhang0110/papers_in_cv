@@ -1,5 +1,15 @@
 # A papers list in computer vision field
 
+## reading iccv2019 papers
+
+-[papers list]()
+
+**Text Detection**
+
+**Text Recognition**
+
+**End2End**
+
 
 ## reading cvpr2019 papers
 
