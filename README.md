@@ -10,6 +10,10 @@
 
 **End2End**
 
+**others**
+
+- [SlowFast Networks for Video Recognition](https://arxiv.org/pdf/1812.03982.pdf%EF%BB%BF)
+
 
 ## reading cvpr2019 papers
 
