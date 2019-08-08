@@ -2,11 +2,11 @@
 
 ## reading iccv2019 papers
 
--[papers list]()
-
 **Text Detection**
 
 **Text Recognition**
+
+- [Symmetry-constrained Rectification Network for Scene Text Recognition](https://arxiv.org/pdf/1908.01957.pdf)
 
 **End2End**
 
@@ -32,6 +32,10 @@
 - [ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification](https://arxiv.org/pdf/1812.05824.pdf)
 
 - [Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/pdf/1904.08364.pdf)
+
+**Detection**
+
+- [CSPnet](https://arxiv.org/pdf/1904.02948.pdf) [keras](https://github.com/liuwei16/CSP)
 
 ## reading AAAI2019 papers
 
