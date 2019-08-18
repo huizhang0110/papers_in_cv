@@ -1,5 +1,7 @@
 # A papers list in computer vision field
 
+- [Recent Advances in Deep Learning for Object Detection](https://arxiv.org/pdf/1908.03673v1.pdf)
+
 ## reading iccv2019 papers
 
 **Text Detection**
