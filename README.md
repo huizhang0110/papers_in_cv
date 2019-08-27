@@ -12,6 +12,8 @@
 
 **End2End**
 
+- [Towards Unconstrained End-to-End Text Spotting](https://arxiv.org/pdf/1908.09231.pdf)
+
 **others**
 
 - [SlowFast Networks for Video Recognition](https://arxiv.org/pdf/1812.03982.pdf%EF%BB%BF)
